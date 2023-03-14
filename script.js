@@ -1,5 +1,5 @@
 
-
+// class example
 class stack{
     array = [];
     currSize;
